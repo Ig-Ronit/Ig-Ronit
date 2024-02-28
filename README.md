@@ -1,4 +1,4 @@
-![logo](https://github.com/Ig-Ronit/Ig-Ronit/blob/main/Banner.png)
+![logo](https://github.com/Ig-Ronit/Ig-Ronit/blob/main/Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Ronit Kene</h1>
 <h3 align="center">A Software Developer from India</h3>
