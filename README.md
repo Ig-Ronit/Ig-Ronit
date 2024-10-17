@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ronit Kene</h1>
 <h3 align="center">A Software Developer from India</h3>
 
-<video align="right" alt="gif" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" autoplay loop>
+<video width="400" height="300" autoplay loop>
+<img align="right" alt="gif" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+</video>
 
 - 🌱 I’m currently learning **Java Frameworks**
 
